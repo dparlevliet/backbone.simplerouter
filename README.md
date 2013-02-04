@@ -8,10 +8,11 @@ It runs before & after methods on each route, but more importantly it
 helps you keep your router organised by simplifying the way your route list
 works.
 
-For full instructions see:
+
+###Full instructions
 
 http://c2journal.com/2013/01/10/making-your-backbone-router-neat-and-tidy-with-backbone-simplerouter/
 
-For additional usages see:
+###Additional usages
 
 http://c2journal.com/2013/02/04/backbone-router-nagivate-to-the-previous-route-using-backbone-simplerouter/
